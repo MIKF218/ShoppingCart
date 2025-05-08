@@ -5,6 +5,7 @@ A modern e-commerce mobile application built with React Native, Expo, and TypeSc
 ## Features
 
 - Product listing with grid and list views
+- Rating and review mechanism
 - Product search and filtering
 - Shopping cart functionality
 - User authentication
